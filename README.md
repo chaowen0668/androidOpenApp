@@ -13,3 +13,8 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [MD-BiliBili](https://github.com/Qixingchen/MD-BiliBili) | Material Design 版 BiliBili Android 客户端 | Java | https://github.com/Qixingchen/MD-BiliBili
+
+### 社交
+App Name                   | Describe                  | Major Language             | Download 
+:------------------------: | :------------------------ | :------------------------: | :------------------------: 
+[BlackLight 新浪微博客户端](https://github.com/PaperAirplane-Dev-Team/BlackLight) | BlackLight 新浪微博客户端 | Java | https://github.com/PaperAirplane-Dev-Team/BlackLight
