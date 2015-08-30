@@ -18,3 +18,8 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [BlackLight 新浪微博客户端](https://github.com/PaperAirplane-Dev-Team/BlackLight) | BlackLight 新浪微博客户端 | Java | https://github.com/PaperAirplane-Dev-Team/BlackLight
+
+### 示例
+App Name                   | Describe                  | Major Language             | Download 
+:------------------------: | :------------------------ | :------------------------: | :------------------------: 
+[Android-Boilerplate](https://github.com/hitherejoe/Android-Boilerplate) | 一个演示了下载，持久化以及数据同步的样板程序。包括 Design Support library的使用，数据缓存以及新的测试模块，把功能测试和产品代码分开。 | Java | https://github.com/hitherejoe/Android-Boilerplate
