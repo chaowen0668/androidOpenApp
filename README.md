@@ -22,10 +22,7 @@ App Name                   | Describe                  | Major Language         
 ### 阅读
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[SimplifyReader](https://github.com/SkillCollege/SimplifyReader) | 一款基于Google Material
-Design设计开发的Android客户端，
-包括新闻简读，图片浏览，视频爽看 ，
-音乐轻听以及二维码扫描五个子模块。 | Java | https://github.com/SkillCollege/SimplifyReader
+[SimplifyReader](https://github.com/SkillCollege/SimplifyReader) | 新闻阅读 | Java | https://github.com/SkillCollege/SimplifyReader
 [积木](https://github.com/tangqi92/BuildingBlocks) | 等你来搭建属于自己的应用  | Java | https://github.com/tangqi92/BuildingBlocks
 
 ### 示例
