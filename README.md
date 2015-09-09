@@ -18,6 +18,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [BlackLight 新浪微博客户端](https://github.com/PaperAirplane-Dev-Team/BlackLight) | BlackLight 新浪微博客户端 | Java | https://github.com/PaperAirplane-Dev-Team/BlackLight
+[iBeebo](https://github.com/andforce/iBeebo) | iBeebo 新浪微博客户端 | Java | https://github.com/andforce/iBeebo
 
 ### 阅读
 App Name                   | Describe                  | Major Language             | Download 
