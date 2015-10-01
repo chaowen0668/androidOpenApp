@@ -26,6 +26,11 @@ App Name                   | Describe                  | Major Language         
 [SimplifyReader](https://github.com/SkillCollege/SimplifyReader) | 新闻阅读 | Java | https://github.com/SkillCollege/SimplifyReader
 [积木](https://github.com/tangqi92/BuildingBlocks) | 等你来搭建属于自己的应用  | Java | https://github.com/tangqi92/BuildingBlocks
 
+### 工具
+App Name                   | Describe                  | Major Language             | Download 
+:------------------------: | :------------------------ | :------------------------: | :------------------------: 
+[Conquer](https://github.com/hanks-zyh/Conquer) |基于Material Design风格的记录事项语音提醒App | Java | https://github.com/hanks-zyh/Conquer
+
 ### 示例
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
