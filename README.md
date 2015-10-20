@@ -26,6 +26,7 @@ App Name                   | Describe                  | Major Language         
 [SimplifyReader](https://github.com/SkillCollege/SimplifyReader) | 新闻阅读 | Java | https://github.com/SkillCollege/SimplifyReader
 [积木](https://github.com/tangqi92/BuildingBlocks) | 等你来搭建属于自己的应用  | Java | https://github.com/tangqi92/BuildingBlocks
 [36krReader](https://github.com/kinneyyan/36krReader) | MD风格的36氪Android阅读客户端  | Java | https://github.com/kinneyyan/36krReader
+[Material-Movies](https://github.com/saulmm/Material-Movies) | MD风格的电影资讯App  | Java | https://github.com/saulmm/Material-Movies
 
 ### 工具
 App Name                   | Describe                  | Major Language             | Download 
