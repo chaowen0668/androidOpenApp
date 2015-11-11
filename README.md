@@ -29,6 +29,7 @@ App Name                   | Describe                  | Major Language         
 [积木](https://github.com/tangqi92/BuildingBlocks) | 等你来搭建属于自己的应用  | Java | https://github.com/tangqi92/BuildingBlocks
 [36krReader](https://github.com/kinneyyan/36krReader) | MD风格的36氪Android阅读客户端  | Java | https://github.com/kinneyyan/36krReader
 [Material-Movies](https://github.com/saulmm/Material-Movies) | MD风格的电影资讯App  | Java | https://github.com/saulmm/Material-Movies
+[干柴（客户端、服务端）](https://github.com/openproject/ganchai) | 干柴(嘿 ~ 不是干货哦，有机会一起睡觉) 一个开源的客户端项目，主要收集开发相关的干货资源，这是一个包括PHP后台、IOS客户端、Android客户端、以及爬虫的完整项目  | Java | https://github.com/openproject/ganchai
 
 ### 工具
 App Name                   | Describe                  | Major Language             | Download 
