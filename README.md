@@ -37,6 +37,8 @@ App Name                   | Describe                  | Major Language         
 [Conquer](https://github.com/hanks-zyh/Conquer) |基于Material Design风格的记录事项语音提醒App | Java | https://github.com/hanks-zyh/Conquer
 [Minimal-Todo](https://github.com/avjinder/Minimal-Todo) |一个Material风格的Android To-Do List(开源) | Java | https://github.com/avjinder/Minimal-Todo
 [RxWeather](https://github.com/SmartDengg/RxWeather) |RxWeather 一个简单的天气预报项目，用来演示如何使用RxJava构造一个清晰的Android应用框架，并且加入了Rxbus。 | RxJava | https://github.com/SmartDengg/RxWeather
+[Todo-Android](https://github.com/rakuishi/Todo-Android) |使用 Realm 实现的符合 Material Design 的 Todo 应用 | Realm | https://github.com/rakuishi/Todo-Android
+[AmazeFileManager](https://github.com/arpitkh96/AmazeFileManager) |Amaze File Manager 一个MD风格的开源文件管理器  | java| https://github.com/arpitkh96/AmazeFileManager
 
 ### 示例
 App Name                   | Describe                  | Major Language             | Download 
