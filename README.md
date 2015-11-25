@@ -31,6 +31,7 @@ App Name                   | Describe                  | Major Language         
 [Material-Movies](https://github.com/saulmm/Material-Movies) | MD风格的电影资讯App  | Java | https://github.com/saulmm/Material-Movies
 [干柴（客户端、服务端）](https://github.com/openproject/ganchai) | 干柴(嘿 ~ 不是干货哦，有机会一起睡觉) 一个开源的客户端项目，主要收集开发相关的干货资源，这是一个包括PHP后台、IOS客户端、Android客户端、以及爬虫的完整项目  | Java | https://github.com/openproject/ganchai
 [Meizhi](https://github.com/drakeet/Meizhi) | gank.io unofficial client, RxJava & Retrofit  | Java | https://github.com/drakeet/Meizhi
+[GankDaily](https://github.com/maoruibin/GankDaily) | GankDaily 一个新的干货手机客户端，使用 MVP 模式开发。  | Java | https://github.com/maoruibin/GankDaily
 
 ### 工具
 App Name                   | Describe                  | Major Language             | Download 
@@ -40,6 +41,7 @@ App Name                   | Describe                  | Major Language         
 [RxWeather](https://github.com/SmartDengg/RxWeather) |RxWeather 一个简单的天气预报项目，用来演示如何使用RxJava构造一个清晰的Android应用框架，并且加入了Rxbus。 | RxJava | https://github.com/SmartDengg/RxWeather
 [Todo-Android](https://github.com/rakuishi/Todo-Android) |使用 Realm 实现的符合 Material Design 的 Todo 应用 | Realm | https://github.com/rakuishi/Todo-Android
 [AmazeFileManager](https://github.com/arpitkh96/AmazeFileManager) |Amaze File Manager 一个MD风格的开源文件管理器  | java| https://github.com/arpitkh96/AmazeFileManager
+[MLManager](https://github.com/javiersantos/MLManager) |MLManager 一个时尚、简单的开源App管理工具。  | java| https://github.com/javiersantos/MLManager
 
 ### 示例
 App Name                   | Describe                  | Major Language             | Download 
