@@ -8,6 +8,7 @@ App Name                   | Describe                  | Major Language         
 [MaterialUp](https://github.com/jariz/MaterialUp) | MaterialUp设计客户端 | Java | https://github.com/jariz/MaterialUp
 [美女图片](https://github.com/drakeet/Meizhi) | 美女图片 | Java | https://github.com/drakeet/Meizhi
 [android-gfycat](https://github.com/dlew/android-gfycat) | Android application that loads gifs via gfycat for efficiency's sake | Java |https://github.com/dlew/android-gfycat
+[wallsplash-android](https://github.com/mikepenz/wallsplash-android) |渐变效果和提供下载功能的一款壁纸应用 | Java |https://github.com/mikepenz/wallsplash-android
 
 
 ### 视频 
