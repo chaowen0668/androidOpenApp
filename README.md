@@ -33,6 +33,7 @@ App Name                   | Describe                  | Major Language         
 [干柴（客户端、服务端）](https://github.com/openproject/ganchai) | 干柴(嘿 ~ 不是干货哦，有机会一起睡觉) 一个开源的客户端项目，主要收集开发相关的干货资源，这是一个包括PHP后台、IOS客户端、Android客户端、以及爬虫的完整项目  | Java | https://github.com/openproject/ganchai
 [Meizhi](https://github.com/drakeet/Meizhi) | gank.io unofficial client, RxJava & Retrofit  | Java | https://github.com/drakeet/Meizhi
 [GankDaily](https://github.com/maoruibin/GankDaily) | GankDaily 一个新的干货手机客户端，使用 MVP 模式开发。  | Java | https://github.com/maoruibin/GankDaily
+[Leisure](https://github.com/MummyDing/Leisure) |闲暇(Leisure)是一款集"知乎日报"、“果壳科学人”、“新华网新闻”以及“豆瓣图书”于一体的阅读类Android应用 | Java | https://github.com/MummyDing/Leisure
 
 ### 工具
 App Name                   | Describe                  | Major Language             | Download 
