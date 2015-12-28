@@ -36,7 +36,7 @@ App Name                   | Describe                  | Major Language         
 [Meizhi](https://github.com/drakeet/Meizhi) | gank.io unofficial client, RxJava & Retrofit  | Java | https://github.com/drakeet/Meizhi
 [GankDaily](https://github.com/maoruibin/GankDaily) | GankDaily 一个新的干货手机客户端，使用 MVP 模式开发。  | Java | https://github.com/maoruibin/GankDaily
 [Leisure](https://github.com/MummyDing/Leisure) |闲暇(Leisure)是一款集"知乎日报"、“果壳科学人”、“新华网新闻”以及“豆瓣图书”于一体的阅读类Android应用 | Java | https://github.com/MummyDing/Leisure
-|Rxjava重构煎蛋高仿 | Java | https://github.com/ZhaoKaiQiang/JianDanRxJava
+[使用Rxjava重构煎蛋高仿](https://github.com/ZhaoKaiQiang/JianDanRxJava) | GankDaily 一个新的干货手机客户端，使用 MVP 模式开发。  | Java | https://github.com/ZhaoKaiQiang/JianDanRxJava
 
 ### 工具
 App Name                   | Describe                  | Major Language             | Download 
