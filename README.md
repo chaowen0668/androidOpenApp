@@ -16,6 +16,7 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [MD-BiliBili](https://github.com/Qixingchen/MD-BiliBili) | Material Design 版 BiliBili Android 客户端 | Java | https://github.com/Qixingchen/MD-BiliBili
 [Sky31Radio](https://github.com/linroid/Sky31Radio) | 湘潭大学三翼校园"四季电台" Android客户端 | Java | https://github.com/linroid/Sky31Radio
+[Vineyard](https://github.com/hitherejoe/Vineyard) | 一个 Vine 的非官方 Android TV 客户端应用 | Java | https://github.com/hitherejoe/Vineyard
 
 ### 社交
 App Name                   | Describe                  | Major Language             | Download 
