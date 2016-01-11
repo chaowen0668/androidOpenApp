@@ -52,6 +52,8 @@ App Name                   | Describe                  | Major Language         
 [MLManager](https://github.com/javiersantos/MLManager) |MLManager 一个时尚、简单的开源App管理工具。  | java| https://github.com/javiersantos/MLManager
 [ForkHub](https://github.com/jonan/ForkHub) |ForkHub 一个开源 Github Android 客户端 | java| https://github.com/javiersantos/MLManager
 [archi](https://github.com/ivacf/archi) |MVP and MVVM,Rxjava | java| https://github.com/ivacf/archi
+[MovieGuide](https://github.com/esoxjem/MovieGuide) |一款使用MVP+RxJava架构的电影app | java| https://github.com/esoxjem/MovieGuide
+
 
 ### 示例
 App Name                   | Describe                  | Major Language             | Download 
