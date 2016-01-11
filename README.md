@@ -53,7 +53,7 @@ App Name                   | Describe                  | Major Language         
 [ForkHub](https://github.com/jonan/ForkHub) |ForkHub 一个开源 Github Android 客户端 | java| https://github.com/javiersantos/MLManager
 [archi](https://github.com/ivacf/archi) |MVP and MVVM,Rxjava | java| https://github.com/ivacf/archi
 [MovieGuide](https://github.com/esoxjem/MovieGuide) |一款使用MVP+RxJava架构的电影app | java| https://github.com/esoxjem/MovieGuide
-
+[ribot-app-android](https://github.com/ribot/ribot-app-android) |The ribot studio app for the Android Platform | java| https://github.com/ribot/ribot-app-android
 
 ### 示例
 App Name                   | Describe                  | Major Language             | Download 
