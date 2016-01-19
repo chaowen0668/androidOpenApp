@@ -9,7 +9,7 @@ App Name                   | Describe                  | Major Language         
 [美女图片](https://github.com/drakeet/Meizhi) | 美女图片 | Java | https://github.com/drakeet/Meizhi
 [android-gfycat](https://github.com/dlew/android-gfycat) | Android application that loads gifs via gfycat for efficiency's sake | Java |https://github.com/dlew/android-gfycat
 [wallsplash-android](https://github.com/mikepenz/wallsplash-android) |渐变效果和提供下载功能的一款壁纸应用 | Java |https://github.com/mikepenz/wallsplash-android
-
+[EasyGank](https://github.com/CaMnter/EasyGank) |EasyGank 又一个 Android 干货客户端，使用 MVP 架构模式 | Java |https://github.com/CaMnter/EasyGank
 
 ### 视频 
 App Name                   | Describe                  | Major Language             | Download 
@@ -54,6 +54,7 @@ App Name                   | Describe                  | Major Language         
 [archi](https://github.com/ivacf/archi) |MVP and MVVM,Rxjava | java| https://github.com/ivacf/archi
 [MovieGuide](https://github.com/esoxjem/MovieGuide) |一款使用MVP+RxJava架构的电影app | java| https://github.com/esoxjem/MovieGuide
 [ribot-app-android](https://github.com/ribot/ribot-app-android) |The ribot studio app for the Android Platform | java| https://github.com/ribot/ribot-app-android
+[yours](https://github.com/bravekingzhang/yours) |一个属于你自己的关于展示最近电影的app | java| https://github.com/bravekingzhang/yours
 
 ### 示例
 App Name                   | Describe                  | Major Language             | Download 
