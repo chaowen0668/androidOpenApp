@@ -10,6 +10,7 @@ App Name                   | Describe                  | Major Language         
 [android-gfycat](https://github.com/dlew/android-gfycat) | Android application that loads gifs via gfycat for efficiency's sake | Java |https://github.com/dlew/android-gfycat
 [wallsplash-android](https://github.com/mikepenz/wallsplash-android) |渐变效果和提供下载功能的一款壁纸应用 | Java |https://github.com/mikepenz/wallsplash-android
 [EasyGank](https://github.com/CaMnter/EasyGank) |EasyGank 又一个 Android 干货客户端，使用 MVP 架构模式 | Java |https://github.com/CaMnter/EasyGank
+[Effects-Pro](https://github.com/yaa110/Effects-Pro) |图片处理app | Java |https://github.com/yaa110/Effects-Pro
 
 ### 视频 
 App Name                   | Describe                  | Major Language             | Download 
