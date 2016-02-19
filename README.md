@@ -42,6 +42,8 @@ App Name                   | Describe                  | Major Language         
 [使用Rxjava重构煎蛋高仿](https://github.com/ZhaoKaiQiang/JianDanRxJava) | GankDaily 一个新的干货手机客户端，使用 MVP 模式开发。  | Java | https://github.com/ZhaoKaiQiang/JianDanRxJava
 [SimpleNews](https://github.com/liuling07/SimpleNews) | 基于Material Design和MVP的新闻客户端  | Java | https://github.com/liuling07/SimpleNews
 [Munch](https://github.com/crazyhitty/Munch) | RSS阅读器  | Java | https://github.com/crazyhitty/Munch
+[React-Native-Gank](https://github.com/Bob1993/React-Native-Gank) | 为Gank.io做的一个React-Native客户端  | React-Native | https://github.com/Bob1993/React-Native-Gank
+
 
 ### 工具
 App Name                   | Describe                  | Major Language             | Download 
