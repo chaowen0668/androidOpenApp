@@ -26,6 +26,7 @@ App Name                   | Describe                  | Major Language         
 [BlackLight 新浪微博客户端](https://github.com/PaperAirplane-Dev-Team/BlackLight) | BlackLight 新浪微博客户端 | Java | https://github.com/PaperAirplane-Dev-Team/BlackLight
 [iBeebo](https://github.com/andforce/iBeebo) | iBeebo 新浪微博客户端 | Java | https://github.com/andforce/iBeebo
 [MessageDisplayKit](https://github.com/xhzengAIB/MessageDisplayKit) | 一个类似微信App的IM应用，拥有发送文字、图片、语音、视频、地理位置消息，管理本地通信录、分享朋友圈、漂流交友、摇一摇和更多有趣的功能。 | Java | https://github.com/xhzengAIB/MessageDisplayKit
+[FanXin-based-HuanXin](https://github.com/huangfangyi/FanXin-based-HuanXin) | 凡信-最强微信仿品 | Java | https://github.com/huangfangyi/FanXin-based-HuanXin
 
 
 ### 阅读
