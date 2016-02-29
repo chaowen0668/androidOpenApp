@@ -11,6 +11,7 @@ App Name                   | Describe                  | Major Language         
 [wallsplash-android](https://github.com/mikepenz/wallsplash-android) |渐变效果和提供下载功能的一款壁纸应用 | Java |https://github.com/mikepenz/wallsplash-android
 [EasyGank](https://github.com/CaMnter/EasyGank) |EasyGank 又一个 Android 干货客户端，使用 MVP 架构模式 | Java |https://github.com/CaMnter/EasyGank
 [Effects-Pro](https://github.com/yaa110/Effects-Pro) |图片处理app | Java |https://github.com/yaa110/Effects-Pro
+[WallpaperStore](https://github.com/zzhoujay/WallpaperStore) |完全使用Kotlin开发的一款Android壁纸应用 | Java |https://github.com/zzhoujay/WallpaperStore
 
 ### 视频 
 App Name                   | Describe                  | Major Language             | Download 
