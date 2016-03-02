@@ -47,6 +47,7 @@ App Name                   | Describe                  | Major Language         
 [React-Native-Gank](https://github.com/Bob1993/React-Native-Gank) | 为Gank.io做的一个React-Native客户端  | React-Native | https://github.com/Bob1993/React-Native-Gank
 [ZhiHuMVP](https://github.com/fangx/ZhiHuMVP) | 采用MVP架构的仿知乎APP | java | https://github.com/fangx/ZhiHuMVP
 [OuNews](https://github.com/oubowu/OuNews#ounews-) | OuNews 一个由学习之用而来的新闻阅读开源App | java |https://github.com/oubowu/OuNews#ounews-
+[NewsMe](https://github.com/iQuick/NewsMe) | NewsMe 私人定制新闻 | java | https://github.com/iQuick/NewsMe
 
 ### 工具
 App Name                   | Describe                  | Major Language             | Download 
