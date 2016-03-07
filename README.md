@@ -64,6 +64,7 @@ App Name                   | Describe                  | Major Language         
 [ribot-app-android](https://github.com/ribot/ribot-app-android) |The ribot studio app for the Android Platform | java| https://github.com/ribot/ribot-app-android
 [yours](https://github.com/bravekingzhang/yours) |一个属于你自己的关于展示最近电影的app | java| https://github.com/bravekingzhang/yours
 [kickmaterial](https://github.com/byoutline/kickmaterial) |Material Design风格的众筹app | java| https://github.com/byoutline/kickmaterial
+[uhabits](https://github.com/iSoron/uhabits) |记录日常习惯的app | java| https://github.com/iSoron/uhabits
 
 ### 示例
 App Name                   | Describe                  | Major Language             | Download 
