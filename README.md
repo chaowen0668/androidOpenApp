@@ -67,6 +67,7 @@ App Name                   | Describe                  | Major Language         
 [yours](https://github.com/bravekingzhang/yours) |一个属于你自己的关于展示最近电影的app | java| https://github.com/bravekingzhang/yours
 [kickmaterial](https://github.com/byoutline/kickmaterial) |Material Design风格的众筹app | java| https://github.com/byoutline/kickmaterial
 [uhabits](https://github.com/iSoron/uhabits) |记录日常习惯的app | java| https://github.com/iSoron/uhabits
+[mr-mantou-android](https://github.com/oxoooo/mr-mantou-android) |馒头先生app | java| https://github.com/oxoooo/mr-mantou-android
 
 ### 示例
 App Name                   | Describe                  | Major Language             | Download 
