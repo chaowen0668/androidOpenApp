@@ -49,6 +49,7 @@ App Name                   | Describe                  | Major Language         
 [OuNews](https://github.com/oubowu/OuNews#ounews-) | OuNews 一个由学习之用而来的新闻阅读开源App | java |https://github.com/oubowu/OuNews#ounews-
 [NewsMe](https://github.com/iQuick/NewsMe) | NewsMe 私人定制新闻 | java | https://github.com/iQuick/NewsMe
 [RealStuff](https://github.com/IvorHu/RealStuff) | 一个看妹纸与开发资讯的Android APP | java | https://github.com/IvorHu/RealStuff
+[DailyGank](https://github.com/zzhoujay/DailyGank) | 使用kotlin开发的Gank.IO的Android客户端  | java | https://github.com/zzhoujay/DailyGank
 
 ### 工具
 App Name                   | Describe                  | Major Language             | Download 
