@@ -50,6 +50,7 @@ App Name                   | Describe                  | Major Language         
 [NewsMe](https://github.com/iQuick/NewsMe) | NewsMe 私人定制新闻 | java | https://github.com/iQuick/NewsMe
 [RealStuff](https://github.com/IvorHu/RealStuff) | 一个看妹纸与开发资讯的Android APP | java | https://github.com/IvorHu/RealStuff
 [DailyGank](https://github.com/zzhoujay/DailyGank) | 使用kotlin开发的Gank.IO的Android客户端  | java | https://github.com/zzhoujay/DailyGank
+[Idaily](https://github.com/liuguangqiang/Idaily) | 使用data binding , dagger2 , retrofit2和rxjava实现的，基于MVVM的知乎日报APP。  | java | https://github.com/liuguangqiang/Idaily
 
 ### 工具
 App Name                   | Describe                  | Major Language             | Download 
