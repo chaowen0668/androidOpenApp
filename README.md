@@ -69,6 +69,7 @@ App Name                   | Describe                  | Major Language         
 [kickmaterial](https://github.com/byoutline/kickmaterial) |Material Design风格的众筹app | java| https://github.com/byoutline/kickmaterial
 [uhabits](https://github.com/iSoron/uhabits) |记录日常习惯的app | java| https://github.com/iSoron/uhabits
 [mr-mantou-android](https://github.com/oxoooo/mr-mantou-android) |馒头先生app | java| https://github.com/oxoooo/mr-mantou-android
+[android-boilerplate](https://github.com/ribot/android-boilerplate) |android-boilerplate 使用RxJava+Retrofit+MVP的app，并了结合详细的测试用例 | java| https://github.com/ribot/android-boilerplate
 
 ### 示例
 App Name                   | Describe                  | Major Language             | Download 
