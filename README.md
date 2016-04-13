@@ -12,6 +12,7 @@ App Name                   | Describe                  | Major Language         
 [EasyGank](https://github.com/CaMnter/EasyGank) |EasyGank 又一个 Android 干货客户端，使用 MVP 架构模式 | Java |https://github.com/CaMnter/EasyGank
 [Effects-Pro](https://github.com/yaa110/Effects-Pro) |图片处理app | Java |https://github.com/yaa110/Effects-Pro
 [WallpaperStore](https://github.com/zzhoujay/WallpaperStore) |完全使用Kotlin开发的一款Android壁纸应用 | Java |https://github.com/zzhoujay/WallpaperStore
+[GankGirl](https://github.com/dalingge/GankGirl) |做了一个Android干货妹子APP，你会喜欢的 | Java |https://github.com/dalingge/GankGirl
 
 ### 视频 
 App Name                   | Describe                  | Major Language             | Download 
