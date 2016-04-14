@@ -13,6 +13,7 @@ App Name                   | Describe                  | Major Language         
 [Effects-Pro](https://github.com/yaa110/Effects-Pro) |图片处理app | Java |https://github.com/yaa110/Effects-Pro
 [WallpaperStore](https://github.com/zzhoujay/WallpaperStore) |完全使用Kotlin开发的一款Android壁纸应用 | Java |https://github.com/zzhoujay/WallpaperStore
 [GankGirl](https://github.com/dalingge/GankGirl) |做了一个Android干货妹子APP，你会喜欢的 | Java |https://github.com/dalingge/GankGirl
+[SearchPictureTool](https://github.com/wenhuaijun/SearchPictureTool) |图片搜索APP源码 | Java |https://github.com/wenhuaijun/SearchPictureTool
 
 ### 视频 
 App Name                   | Describe                  | Major Language             | Download 
