@@ -73,6 +73,7 @@ App Name                   | Describe                  | Major Language         
 [uhabits](https://github.com/iSoron/uhabits) |记录日常习惯的app | java| https://github.com/iSoron/uhabits
 [mr-mantou-android](https://github.com/oxoooo/mr-mantou-android) |馒头先生app | java| https://github.com/oxoooo/mr-mantou-android
 [android-boilerplate](https://github.com/ribot/android-boilerplate) |android-boilerplate 使用RxJava+Retrofit+MVP的app，并了结合详细的测试用例 | java| https://github.com/ribot/android-boilerplate
+[monkey-android](https://github.com/yeungeek/monkey-android) |monkey-android 使用RxJava+Retrofit+MVP的app，github的第三方 | java| https://github.com/yeungeek/monkey-android
 
 ### 示例
 App Name                   | Describe                  | Major Language             | Download 
