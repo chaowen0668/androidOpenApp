@@ -34,6 +34,7 @@ App Name                   | Describe                  | Major Language         
 [FanXin-based-HuanXin](https://github.com/huangfangyi/FanXin-based-HuanXin) | 凡信-最强微信仿品 | Java | https://github.com/huangfangyi/FanXin-based-HuanXin
 [Douya](https://github.com/DreaminginCodeZH/Douya) | 开源的 Material Design 豆瓣客户端 | Java | https://github.com/DreaminginCodeZH/Douya
 [Baby](https://github.com/rogerou/Baby) | 一个恋爱社交APP | Java | https://github.com/rogerou/Baby
+[PlayTogether](https://github.com/Chenantao/PlayTogether) | 一个以陌生人的社交APP | Java | https://github.com/Chenantao/PlayTogether
 
 ### 阅读
 App Name                   | Describe                  | Major Language             | Download 
