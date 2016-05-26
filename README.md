@@ -16,6 +16,7 @@ App Name                   | Describe                  | Major Language         
 [SearchPictureTool](https://github.com/wenhuaijun/SearchPictureTool) |图片搜索APP源码 | Java |https://github.com/wenhuaijun/SearchPictureTool
 [Girls](https://github.com/flyou/girls) |以后gank的妹子就靠它了 | Java |https://github.com/flyou/girls
 [RxJoke](http://email.mail.gank.io/c/eJwVjUsOwjAMBU_TLCM7tvNZZIFEuUeaFhroF4p6fYI0sxk96fWRcyayqkQDaIFNFQCDRnFOY4Cg2yu71iM1DHMqk36k5aXLqsaIXQ5Dzp2EPhlvRfq7GLLgidihRzVHRAxsvJrieBxbQ5fG3CrneepnSctn_Oq8zrVs1cAEQ04ilES9oyBaZue5Pu_7f_cDndYu6A) |RxJoke:RxJava+MVP的开源项目-幼苗项目  | Java |http://email.mail.gank.io/c/eJwVjUsOwjAMBU_TLCM7tvNZZIFEuUeaFhroF4p6fYI0sxk96fWRcyayqkQDaIFNFQCDRnFOY4Cg2yu71iM1DHMqk36k5aXLqsaIXQ5Dzp2EPhlvRfq7GLLgidihRzVHRAxsvJrieBxbQ5fG3CrneepnSctn_Oq8zrVs1cAEQ04ilES9oyBaZue5Pu_7f_cDndYu6A
+[huabanDemo](https://github.com/LiCola/huabanDemo) | MD版的花瓣网App | Java | https://github.com/LiCola/huabanDemo
 
 ### 视频 
 App Name                   | Describe                  | Major Language             | Download 
