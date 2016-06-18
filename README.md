@@ -18,6 +18,8 @@ App Name                   | Describe                  | Major Language         
 [RxJoke](http://email.mail.gank.io/c/eJwVjUsOwjAMBU_TLCM7tvNZZIFEuUeaFhroF4p6fYI0sxk96fWRcyayqkQDaIFNFQCDRnFOY4Cg2yu71iM1DHMqk36k5aXLqsaIXQ5Dzp2EPhlvRfq7GLLgidihRzVHRAxsvJrieBxbQ5fG3CrneepnSctn_Oq8zrVs1cAEQ04ilES9oyBaZue5Pu_7f_cDndYu6A) |RxJoke:RxJava+MVP的开源项目-幼苗项目  | Java |http://email.mail.gank.io/c/eJwVjUsOwjAMBU_TLCM7tvNZZIFEuUeaFhroF4p6fYI0sxk96fWRcyayqkQDaIFNFQCDRnFOY4Cg2yu71iM1DHMqk36k5aXLqsaIXQ5Dzp2EPhlvRfq7GLLgidihRzVHRAxsvJrieBxbQ5fG3CrneepnSctn_Oq8zrVs1cAEQ04ilES9oyBaZue5Pu_7f_cDndYu6A
 [huabanDemo](https://github.com/LiCola/huabanDemo) | MD版的花瓣网App | Java | https://github.com/LiCola/huabanDemo
 [LeafPic](https://github.com/HoraApps/LeafPic) | 一个优质的 Android 开源图片查看 App  | Java | https://github.com/HoraApps/LeafPic
+[IBeauty](https://github.com/shichaohui/IBeauty) | 一个专门看妹子的App，MVP＋Retrofit2＋RxJava  | Java | https://github.com/shichaohui/IBeauty
+
 
 ### 视频 
 App Name                   | Describe                  | Major Language             | Download 
