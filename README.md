@@ -20,6 +20,7 @@ App Name                   | Describe                  | Major Language         
 [LeafPic](https://github.com/HoraApps/LeafPic) | 一个优质的 Android 开源图片查看 App  | Java | https://github.com/HoraApps/LeafPic
 [IBeauty](https://github.com/shichaohui/IBeauty) | 一个专门看妹子的App，MVP＋Retrofit2＋RxJava  | Java | https://github.com/shichaohui/IBeauty
 [Now](https://github.com/XunMengWinter/Now) | 目前包含站酷（Zcool）精选、国家地理（National Geographic）每日一图、知乎日报、豆瓣一刻（Moment）  | Java | https://github.com/XunMengWinter/Now
+[GankMM](https://github.com/maning0303/GankMM) | GankMM  | Java | https://github.com/maning0303/GankMM
 
 ### 视频 
 App Name                   | Describe                  | Major Language             | Download 
