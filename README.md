@@ -29,6 +29,7 @@ App Name                   | Describe                  | Major Language         
 [Sky31Radio](https://github.com/linroid/Sky31Radio) | 湘潭大学三翼校园"四季电台" Android客户端 | Java | https://github.com/linroid/Sky31Radio
 [Vineyard](https://github.com/hitherejoe/Vineyard) | 一个 Vine 的非官方 Android TV 客户端应用 | Java | https://github.com/hitherejoe/Vineyard
 [NewPipe](https://github.com/theScrabi/NewPipe) | 一个轻量级的YouTube | Java | https://github.com/theScrabi/NewPipe
+[Ghost](https://github.com/GeekGhost/Ghost) | 微影，一款纯粹的在线视频App，基于Material Design + MVP + RxJava + Retrofit + Realm + Glide | Java | https://github.com/GeekGhost/Ghost
 
 ### 社交
 App Name                   | Describe                  | Major Language             | Download 
