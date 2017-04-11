@@ -30,6 +30,7 @@ App Name                   | Describe                  | Major Language         
 [Vineyard](https://github.com/hitherejoe/Vineyard) | 一个 Vine 的非官方 Android TV 客户端应用 | Java | https://github.com/hitherejoe/Vineyard
 [NewPipe](https://github.com/theScrabi/NewPipe) | 一个轻量级的YouTube | Java | https://github.com/theScrabi/NewPipe
 [Ghost](https://github.com/GeekGhost/Ghost) | 微影，一款纯粹的在线视频App，基于Material Design + MVP + RxJava + Retrofit + Realm + Glide | Java | https://github.com/GeekGhost/Ghost
+[vld](https://github.com/Cuieney/vld) | App界的一股清流 音视频应有尽有 完全按照Material design规范设计的App | Java | https://github.com/Cuieney/vld
 
 ### 社交
 App Name                   | Describe                  | Major Language             | Download 
